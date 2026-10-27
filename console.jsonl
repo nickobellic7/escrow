@@ -1,2 +1,6 @@
 {"level":"debug","message":"[vite] connected.","timestamp":1793118517818}
 {"level":"debug","message":"[vite] connected.","timestamp":1793118933367}
+{"level":"debug","message":"[vite] connected.","timestamp":1793120571025}
+{"level":"debug","message":"[vite] connected.","timestamp":1793121196118}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793122064790}
+{"level":"debug","message":"[vite] connected.","timestamp":1793122072215}
